@@ -13,7 +13,9 @@
   "keywords": [
     "curl",
     "json",
-    "json"
+    "parser",
+    "convert",
+    "curl-to-json"
   ],
   "author": "Tolustar",
   "license": "MIT",
