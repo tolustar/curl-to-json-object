@@ -1,6 +1,6 @@
 {
   "name": "curl-to-json-object",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convert curl request to json object",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,9 @@
   "author": "Tolustar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tolustar/curl-to-json/issues"
+    "url": "https://github.com/tolustar/curl-to-json-object/issues"
   },
-  "homepage": "https://github.com/tolustar/curl-to-json#readme",
+  "homepage": "https://github.com/tolustar/curl-to-json-object#readme",
   "dependencies": {
     "yargs-parser": "^20.2.7"
   },
