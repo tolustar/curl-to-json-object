@@ -1,0 +1,30 @@
+{
+  "name": "curl-to-json",
+  "version": "0.0.1",
+  "description": "convert curl request to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolustar/curl-to-json.git"
+  },
+  "keywords": [
+    "curl",
+    "json",
+    "json"
+  ],
+  "author": "Tolustar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolustar/curl-to-json/issues"
+  },
+  "homepage": "https://github.com/tolustar/curl-to-json#readme",
+  "dependencies": {
+    "yargs-parser": "^20.2.7"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
